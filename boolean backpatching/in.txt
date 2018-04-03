@@ -1,0 +1,15 @@
+{
+	int a,b,c;
+	int d[10][20];
+	a=b+c;
+	if ( a<b && c< d[5][2])
+	{
+		a=b+c;
+	}
+	else
+	{
+		int x,y;
+		x=y+y;
+	}
+		b=c*a;
+}
